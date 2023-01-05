@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ahmed Taha</h1>
-<h3 align="center">Data Analyst</h3>
 <h1 align="center">Hi 👋, I'm Ahmed taha</h1>
 <h3 align="center">Data analyst</h3>
 
