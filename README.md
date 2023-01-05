@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/ahmed2002at" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed2002at?logo=twitter&style=for-the-badge" alt="ahmed2002at" /></a> </p>
 
+- 🔭 I’m currently Studying on **Faculty of Computer & Information Sciences - Kafr El-Sheikh University‎‏**
+
+- 🌱 I’m currently learning **Python | SQL | Excel | Power BI | Tableau**
+
+- 📫 How to reach me **ahmed8952at@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmed2002at" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed2002at" height="30" width="40" /></a>
