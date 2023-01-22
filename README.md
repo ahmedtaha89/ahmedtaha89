@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **Python | SQL | Excel | Power BI | Tableau**
 
-- 📫 How to reach me **ahmed8952at@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
