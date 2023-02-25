@@ -21,6 +21,13 @@
 <a href="https://fb.com/100053195565788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100053195565788" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmed8952at" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed8952at" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abo_taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abo_taha" height="30" width="40" /></a>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/ahmed8952at" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed8952at" height="30" width="40" /></a>
+</p>
+
 <a href="https://www.leetcode.com/ahmedtaha89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedtaha89" height="30" width="40" /></a>
 </p>
 
