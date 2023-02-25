@@ -23,4 +23,5 @@
 
 <h3 align="left">GitHup Stats:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedtaha89&show_icons=true&locale=en" height="200"   alt="ahmedtaha89" /></p><br><br>
+<h3 align="left">Streak Stats:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtaha89&" height="200" alt="ahmedtaha89" /></p>
