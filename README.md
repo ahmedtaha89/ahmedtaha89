@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtaha89" alt="ahmedtaha89" /></a> </p>
 
-- 🔭 I’m currently Studying on **faculty of Computer & Information Sciences - Kafr El-Sheikh University‎**
-- 🌱 I’m currently learning **Python | SQL | Excel | Power BI | Tableau**
+- 🔭 I’m Currently Studying on **faculty of Computer & Information Sciences - Kafr El-Sheikh University‎**
+- 🌱 I’m Currently learning **Python | SQL | Excel | Power BI **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
