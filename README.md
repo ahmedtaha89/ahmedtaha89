@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Ahmed Taha</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Taha</h1>
 <h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtaha89&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtaha89" /> </p>
