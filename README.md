@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtaha89" alt="ahmedtaha89" /></a> </p>
 - 🔭 I Recently Graduated from the Faculty of Computer & Information Sciences at Kafr El-Sheikh University.
+
 - 🌱 I’m Currently learning Business Intelligence.
 
 <h3 align="left">Connect with me:</h3>
