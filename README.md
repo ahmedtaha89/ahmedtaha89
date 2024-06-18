@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtaha89&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtaha89" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtaha89" alt="ahmedtaha89" /></a> </p>
+
 - 🔭 I Recently Graduated from the Faculty of Computer & Information Sciences at Kafr El-Sheikh University.
 
 - 🌱 I’m Currently learning Business Intelligence.
