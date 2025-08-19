@@ -10,7 +10,7 @@
 ### 👨‍🎓 About Me  
 - 🎓 Recently graduated from **Faculty of Computer & Information Sciences - Kafr El-Sheikh University**.  
 - 🚀 Currently a **Software Testing Trainee @ ITI**.  
-- 🌱 Interested in **Quality Assurance, Test Automation & Business Intelligence**.  
+- 🌱 Interested in **Quality Assurance, Test Automation**.  
 - 💡 Passionate about improving software quality and user experience.  
 
 ---
@@ -122,3 +122,4 @@
 </p>
 
 ---
+
