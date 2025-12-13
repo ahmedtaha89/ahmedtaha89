@@ -54,49 +54,39 @@
   <a href="https://linkedin.com/in/ahmed-taha-87b546207" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/ahmedtahaahmed" target="blank">
+  <a href="https://kaggle.com/ahmedtahaahmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/ahmed8952at" target="blank">
+  <a href="https://www.hackerrank.com/ahmedtaha74a" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/abo_taha" target="blank">
+  <a href="https://codeforces.com/profile/abo_taha" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
 </p>
 
 ---
-
 ### 🛠️ Tools & Technologies  
-<p align="left"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/373589/powerbi.svg" alt="Power BI" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40" height="40"/> 
-  </a>
-  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/331760/microsoft.svg" alt="SSIS" width="40" height="40"/> 
-  </a>
-  <a href="https://www.informatica.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/331760/informatica.svg" alt="Informatica" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
+<p align="left">
+  <!-- Core BI / Data -->
+  <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?logo=microsoftsqlserver&logoColor=white" height="28" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Power%20BI-BI%20Reporting-F2C811?logo=powerbi&logoColor=black" height="28" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau&logoColor=white" height="28" alt="Tableau"/>
+
+  <!-- ETL -->
+  <img src="https://img.shields.io/badge/SSIS-Integration%20Services-0078D4?logo=microsoft&logoColor=white" height="28" alt="SSIS"/>
+  <img src="https://img.shields.io/badge/Informatica-PowerCenter-FF4D00" height="28" alt="Informatica"/>
+
+  <!-- Programming / Tools -->
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?logo=python&logoColor=white" height="28" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" height="28" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white" height="28" alt="GitHub"/>
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" height="28" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black" height="28" alt="Linux"/>
 </p>
+>
 
 ---
 
@@ -112,3 +102,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtaha89&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
