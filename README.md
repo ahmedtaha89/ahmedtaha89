@@ -60,9 +60,6 @@
   <a href="https://www.hackerrank.com/ahmedtaha74a" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/abo_taha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -86,20 +83,20 @@
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" height="28" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black" height="28" alt="Linux"/>
 </p>
->
 
 ---
-
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtaha89&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtaha89&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtaha89&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ahmedtaha89" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtaha89&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtaha89&layout=compact" alt="Top Languages" />
 </p>
+
 
