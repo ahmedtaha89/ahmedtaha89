@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Ahmed Taha
 
-### Junior Business Intelligence & ETL Developer
+### Junior Data Engineer & ETL Developer
 
 *Transforming data into actionable insights through ETL processes, data warehousing, and business intelligence solutions*
 
